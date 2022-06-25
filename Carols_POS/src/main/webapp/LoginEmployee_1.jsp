@@ -86,7 +86,7 @@ top:10px;
         <br>
         <br>
         <br>
-        <div id ="midbody">
+        <div id ="midbody" style="background-image:url('https://lh3.googleusercontent.com/pw/AM-JKLXMO5yDb4rwt4sEQrgiQOMODT_pJfb1SL2dd8vpb9xK6qq-v0-sLTcA7ci2YTgbCEc9EH-VWq56ksYL1wsRQOFNAtSXfc6cmCOwCtpfS-Hbcj4rYphCA-b4AYxOAjboLEyfbJ4HxwYWuwhl5jRgETc=w1095-h657-no?authuser=0'); background-size:cover;">
             <br>
             <h2><u>Login employee</u></h2><br>
             <label>Employee ID number:</label><br>
